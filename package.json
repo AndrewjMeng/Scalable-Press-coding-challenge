@@ -1,0 +1,10 @@
+{
+  "name": "scalable-press-coding-challenge",
+  "version": "1.0.0",
+  "description": "Countdown coding challenge",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewjMeng/Scalable-Press-coding-challenge.git"
+  },
+  "author": "Andrew Meng",
+}
